@@ -1,5 +1,4 @@
 ﻿namespace Booking.Domain.Users;
 
-public class FirstName
-{
-}
+public record FirstName(string Value);
+
